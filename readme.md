@@ -17,12 +17,19 @@ Score is directly above lives
 
 Try to survive all 12 waves!
 　　　　　.i＼ ／i 　　||
+     
 　　　　＜ '´ ￣　ヽ. ||
+    
 　　　＿_彡ﾉﾒﾉﾉlﾉﾘ〉||
+   
 （（　.＼ ｀ｿﾘ!ﾟ ヮﾟﾉi.　||
+
 　　　　 ＞（ 二二づΦ
+     
 　　　　/　,く//_|l〉
+    
 　　　　￣　l.ﾉl.ﾉ
+    
 
 Author: Chunlok Lo
 
