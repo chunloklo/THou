@@ -1,35 +1,30 @@
-﻿Welcome to a GBA danmaku game! Heavily inspired by the likes of Touhou, you will avoid certain death while shooting down your enemies at every turn!
+#### Welcome to a GBA danmaku game! Heavily inspired by the likes of Touhou, you will avoid certain death while shooting down your enemies at every turn!
 
-Run:
-Install VBA
+#### To Run:
+Install VBA <br/>
+Download `THou.gba` from ROM <br/>
+Run ROM with `vba THou.gba` or use VBA GUI
 
-Controls:
-Start : Begin game
-Select : Return to Start Screen
+#### Controls:
+Start/Enter : Begin game <br/>
+Select/Backspace : Return to Start Screen
 
-Game Controls:
-A : Shoot
-B : Slow down (to help avoiding bullets)
+#### Game Controls:
+A/Z : Shoot <br/>
+B/X : Slow down (to help avoiding bullets) <br/>
 Directions : Movement
 
-# of lives is on the bottom left
+Number of lives is on the bottom left <br/>
 Score is directly above lives
 
-Try to survive all 12 waves!
-　　　　　.i＼ ／i 　　||
-     
-　　　　＜ '´ ￣　ヽ. ||
-    
-　　　＿_彡ﾉﾒﾉﾉlﾉﾘ〉||
-   
-（（　.＼ ｀ｿﾘ!ﾟ ヮﾟﾉi.　||
-
-　　　　 ＞（ 二二づΦ
-     
-　　　　/　,く//_|l〉
-    
-　　　　￣　l.ﾉl.ﾉ
-    
+Try to survive all 12 waves!<br/>
+　　　　　.i＼ ／i 　　||<br/>
+　　　　＜ '´ ￣　ヽ. ||<br/>
+　　　＿_彡ﾉﾒﾉﾉlﾉﾘ〉||<br/>
+（（　.＼ ｀ｿﾘ!ﾟ ヮﾟﾉi.　||<br/>
+　　　　 ＞（ 二二づΦ<br/>
+　　　　/　,く//_|l〉<br/>
+　　　　￣　l.ﾉl.ﾉ<br/>
 
 Author: Chunlok Lo
 
@@ -37,14 +32,16 @@ All art used are borrowed from the internet to make this game look cool. Credits
 
 Sprites: Shin Touhou Musou
 
-Start Screen: greenmapple17
-https://greenmapple17.deviantart.com/art/Fujiwara-no-Mokou-Touhou-Project-Minimalism-536288621
-Win Screen: TheBrokenBottle
-https://thebrokenbottle.deviantart.com/art/Touhou-Project-Marisa-Kirisame-505664500 
-Lose Screen: BlueRizk
-https://bluerizk.deviantart.com/art/Reisen-Udongein-Inaba-Minimalist-Vector-Art-549652579
+Start Screen: greenmapple17<br/>
+https://greenmapple17.deviantart.com/art/Fujiwara-no-Mokou-Touhou-Project-Minimalism-536288621<br/>
+Win Screen: TheBrokenBottle<br/>
+https://thebrokenbottle.deviantart.com/art/Touhou-Project-Marisa-Kirisame-505664500 <br/>
+Lose Screen: BlueRizk<br/>
+https://bluerizk.deviantart.com/art/Reisen-Udongein-Inaba-Minimalist-Vector-Art-549652579<br/>
 
-This game is purely built for educational purposes to learn GBA coding.
+This game is purely built for educational purposes to learn GBA coding
+
+
 
 
 
