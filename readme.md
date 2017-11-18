@@ -1,4 +1,10 @@
-#### Welcome to a GBA danmaku game! Heavily inspired by the likes of Touhou, you will avoid certain death while shooting down your enemies at every turn!
+### Welcome to a GBA danmaku game! Heavily inspired by the likes of Touhou, you will avoid certain death while shooting down your enemies at every turn!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3EM-_SlTtWo
+" target="_blank"><img src="https://github.com/chunloklo/THou/blob/master/images/screenshot.png" 
+alt="THou Link"/></a>
+[Watch it in action](https://www.youtube.com/watch?v=3EM-_SlTtWo)
+
 
 #### To Run:
 Install VBA <br/>
